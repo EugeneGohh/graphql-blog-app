@@ -1,9 +1,9 @@
-import Box from "./components/Box";
+import BoxComponent from "./components/Box";
 
 function App() {
   return (
     <div>
-      <Box />
+      <BoxComponent />
     </div>
   );
 }
