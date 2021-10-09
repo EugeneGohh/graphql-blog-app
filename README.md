@@ -4,7 +4,7 @@ A blog app built on top of GraphQL.
 
 ## To-do list
 
-- [ ] Build schema
-- [ ] Setup Apollo server 
-- [ ] Setup Apollo client
-- [ ] Use `useQuery` hook
+- [x] Build schema
+- [x] Setup Apollo server 
+- [x] Setup Apollo client
+- [x] Use `useQuery` hook
